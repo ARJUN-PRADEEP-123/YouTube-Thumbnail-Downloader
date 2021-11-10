@@ -7,15 +7,10 @@ License -> https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader/blob/mai
 
 ---
 
-## Deploy
+#### Deploy To Heroku
 
-```sh
-git clone https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader.git
-cd YouTube-Thumbnail-Downloader
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
-```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader)
+
 
 ---
 
